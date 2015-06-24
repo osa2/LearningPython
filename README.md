@@ -1,1 +1,1 @@
-# LerningPython
+# LearningPython
